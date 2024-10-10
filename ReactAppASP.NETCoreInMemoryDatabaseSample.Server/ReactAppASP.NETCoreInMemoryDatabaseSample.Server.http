@@ -1,0 +1,6 @@
+@ReactAppASP.NETCoreInMemoryDatabaseSample.Server_HostAddress = http://localhost:5089
+
+GET {{ReactAppASP.NETCoreInMemoryDatabaseSample.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
